@@ -14,6 +14,7 @@ if x:
 
 
 birth = input('birth: ')
+# 将输入的字符串转成Int类型
 birth =int(birth)
 if birth < 2000:
     print('00前')
