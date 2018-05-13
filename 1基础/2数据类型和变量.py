@@ -29,7 +29,8 @@ print(Answer)
 # 常量
 PI = 3.1415
 
-# 除法
+# 除法  / 为结果浮点  // 结果为整形
+print("除法")
 print(10 / 3)
 print(9 / 3)
 print(10 // 3)
